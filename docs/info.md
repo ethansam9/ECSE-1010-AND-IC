@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Traffic light that switches from green-->yellow-->red
+A single AND gate
 
 ## How to test
 
-LED's should switch from green-->yellow-->red every ~4 seconds
+Try every 2 bit combination
 
 ## External hardware
 
-3 LEDs
+A single LED
