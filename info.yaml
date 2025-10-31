@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     443364065833363457       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Intermediate_Workshop"      # Project title
+  title:        "Logic Gate"      # Project title
   author:       "Ethan Sampson"      # Your name
   discord:      "ethan.samp"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Traffic Light"      # One line description of what your project does
+  description:  "And Gate with LED"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     1       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -27,8 +27,8 @@ pinout:
 
   # Outputs
   uo[0]: "LED1"
-  uo[1]: "LED2"
-  uo[2]: "LED3"
+  uo[1]: ""
+  uo[2]: ""
   uo[3]: ""
   uo[4]: ""
   uo[5]: ""
